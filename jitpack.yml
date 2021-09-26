@@ -1,0 +1,8 @@
+# https://jitpack.io/docs/BUILDING/
+# implementation 'com.github.jmfayard:refreshVersions:Tag'
+jdk:
+  - openjdk8
+#before_install:
+#  - ./custom_setup.sh
+#env:
+#  MYVAR: "custom environment variable"
