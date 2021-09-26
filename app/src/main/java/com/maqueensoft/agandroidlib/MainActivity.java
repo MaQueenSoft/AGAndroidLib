@@ -6,6 +6,7 @@ import android.os.Bundle;
 
 import com.example.agandroidlib.R;
 import com.maqueensoft.aglib.Toaster;
+//import com.maqueensoft.aglib.Toaster;
 
 public class MainActivity extends AppCompatActivity {
 
